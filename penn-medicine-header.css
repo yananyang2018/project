@@ -35,7 +35,7 @@ PennMedicineWebMaster@uphs.upenn.edu
 		background-image: url(https://www.lvhn.org//themes/custom/ts_lvhn/logo.svg);
 		background-repeat: no-repeat;
 		background-size: 90%;
-		height: 83px;
+		height: 63px;
 		width: 230px;
 		text-indent: -999999px;
 		border-right: 1px solid #fff;
@@ -51,8 +51,8 @@ PennMedicineWebMaster@uphs.upenn.edu
 		}
 		.penn-medicine-header__logo {
 			border-right: none;
-			height: 80px;
-			width: 239px;
+			height: 30px;
+			width: 209px;
 		}
 	}
 
@@ -67,7 +67,7 @@ PennMedicineWebMaster@uphs.upenn.edu
 			border-right: none;
 		}
 		.penn-medicine-header__logo {
-			height: 75px;
-			width: 194px;
+			height: 25px;
+			width: 174px;
 		}
 	}
