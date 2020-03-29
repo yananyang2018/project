@@ -39,13 +39,13 @@ PennMedicineWebMaster@uphs.upenn.edu
 		width: 230px;
 		text-indent: -999999px;
 		border-right: 1px solid #fff;
-		margin-right: 20rem;
+		margin-right: 1rem;
 	}
 	
 	@media (max-width: 1100px) {
 		.penn-medicine-header__content .penn-medicine-header__title {
 			clear: left;
-			margin-left: 35px;
+			margin-left: 65px;
 			display: block;
 			font-size: 20px;
 		}
