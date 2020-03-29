@@ -51,7 +51,7 @@ PennMedicineWebMaster@uphs.upenn.edu
 		}
 		.penn-medicine-header__logo {
 			border-right: none;
-			height: 50px;
+			height: 80px;
 			width: 239px;
 		}
 	}
@@ -67,7 +67,7 @@ PennMedicineWebMaster@uphs.upenn.edu
 			border-right: none;
 		}
 		.penn-medicine-header__logo {
-			height: 45px;
+			height: 75px;
 			width: 194px;
 		}
 	}
