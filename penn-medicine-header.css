@@ -45,7 +45,7 @@ PennMedicineWebMaster@uphs.upenn.edu
 	@media (max-width: 1100px) {
 		.penn-medicine-header__content .penn-medicine-header__title {
 			clear: left;
-			margin-left: 65px;
+			margin-left: 35px;
 			display: block;
 			font-size: 20px;
 		}
@@ -59,7 +59,7 @@ PennMedicineWebMaster@uphs.upenn.edu
 	@media (max-width: 600px) {
 		.penn-medicine-header__content .penn-medicine-header__title {
 			clear: left;
-			margin-left: 30px;
+			margin-left: 60px;
 			display: block;
 			font-size: 17px;
 		}
